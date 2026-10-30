@@ -4,9 +4,8 @@ Virtuelle Unternehmensumgebung für ein fiktives Unternehmen („Fraîche Flow�
 
 ## Projektprofil
 
-| | |
-|---|---|
 | Autor | Ibrahim Kilic |
+|---|---|
 | Kontext | Lernprojekt in der Umschulung zum Fachinformatiker für Systemintegration. Testlabor, kein Produktivbetrieb |
 | Meine Arbeit | Einrichtung, Konfiguration, Tests, Fehlersuche und Dokumentation |
 | Technik | Hyper-V, Proxmox VE 9.1, Debian, TrueNAS, Bind9, Kea, Apache, MariaDB, Nextcloud, Docker, Uptime Kuma |

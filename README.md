@@ -12,6 +12,12 @@ Virtuelle Unternehmensumgebung für ein fiktives Unternehmen („Fraîche Flow�
 | Umfang | 7 Systeme, 22 Dokumentationsseiten, 31 Abbildungen |
 | Ergebnis | Technische Abnahme mit Auflagen: 14 von 15 Anforderungen erfüllt, eine teilweise |
 
+## Ausgangssituation und Aufgabe
+
+Eine Stadt möchte Parks, Sportflächen und Außenbereiche automatisch bewässern und an heißen Tagen mit feinem Sprühnebel kühlen („Fraîche Flow“). Bevor dafür reale Geräte ausgerollt werden, entsteht ein digitaler Zwilling: eine getrennte Testumgebung, in der Netz, Dienste, Speicher, Backup und Überwachung zuerst erprobt werden.
+
+Meine Aufgabe war, diese Testumgebung aufzubauen: sieben virtuelle Systeme einrichten, Dienste in Betrieb nehmen, Zugang und Backup absichern, eine Überwachung aufbauen und am Ende prüfen, ob alles belegbar funktioniert. Die Sensoren und Steuergeräte selbst gehören nicht zum Lab.
+
 ## In 60 Sekunden
 
 - Ein kleines Firmennetz aus sieben virtuellen Systemen: Router, Proxmox, DNS und DHCP, Speicher, Webportal, Mailserver und ein Verwaltungsrechner.
